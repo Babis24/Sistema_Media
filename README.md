@@ -20,10 +20,10 @@ A aplicação é um script de terminal que interage com o usuário para coletar 
 *   **Cálculo de Médias:** Calcula a média para cada matéria individualmente e uma média geral para o aluno.
 *   **Persistência de Dados:** Armazena todas as informações do aluno, incluindo as notas detalhadas e as médias, em um banco de dados.
 
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/74b13711-87cc-4b2f-9077-c5a6c5478079" alt="Image showcasing the project's purpose and initial instructions." width="700"/>
 </p>
-
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -175,9 +175,6 @@ node dist/index.js
 
 A aplicação começará a fazer perguntas no terminal. Responda-as para inserir os dados do aluno e suas notas.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/74b13711-87cc-4b2f-9077-c5a6c5478079" alt="Image showcasing the project's purpose and initial instructions." width="700"/>
-</p>
 
 ### Passo 8: Verificar os Dados no PGAdmin (Opcional)
 
@@ -196,7 +193,4 @@ Após a execução do script e a inserção dos dados, você pode usar o PGAdmin
 
 Você deverá ver os dados do aluno que você inseriu através do terminal!
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/74b13711-87cc-4b2f-9077-c5a6c5478079" alt="Image showcasing the project's purpose and initial instructions." width="700"/>
-</p>
 
