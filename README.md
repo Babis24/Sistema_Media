@@ -1,8 +1,8 @@
-## Autor
-**Bárbara Falcão                RA:2506486**
-**Giovanna Falgetano            RA:2512938**
-**Glória Mariano                RA:2504112**
-**Leonardo dos Santos Costa     RA:2505420**
+
+## Bárbara Falcão                RA:2506486
+## Giovanna Falgetano            RA:2512938
+## Glória Mariano                RA:2504112
+## Leonardo dos Santos Costa     RA:2505420
 
 # 🎓 Sistema de Gerenciamento de Notas de Alunos com TypeScript e PostgreSQL
 
